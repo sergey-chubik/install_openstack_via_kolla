@@ -1,0 +1,1 @@
+# install_openstack_via_kolla
